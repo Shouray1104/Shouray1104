@@ -1,8 +1,8 @@
 <table>
   <td>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=chamidu0423">
-    <img src="https://komarev.com/ghpvc/?username=chamidu0423&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=Shouray1104">
+    <img src="https://komarev.com/ghpvc/?username=Shouray1104&label=Profile%20views&color=00FFFF&style=flat-square" alt="Shouray1104's profile views" />
   </a>
 </p>
   </td>
