@@ -1,16 +1,68 @@
-## Hi there 👋
+<table>
+  <td>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=chamidu0423">
+    <img src="https://komarev.com/ghpvc/?username=chamidu0423&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
+  </a>
+</p>
+  </td>
+</table>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-<!--
-**Shouray1104/Shouray1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm **Chamidu Dilshan** <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 
-Here are some ideas to get you started:
+**Software Engineering Undergraduate** from **Sri Lanka**
+Passionate about crafting seamless digital experiences and exploring modern tech trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ### What I Do ?
+
+* Build responsive web and mobile apps with clean UI/UX.
+* Work across the stack using modern tools and frameworks.
+* Learn, create, and share ideas that inspire innovation.
+
+> ### Tech Stack
+
+**Frontend:** React, Vue, Next.js, Tailwind CSS, Vite
+
+**Backend:** Node.js, Express.js
+
+**Databases:** MySQL, MongoDB, SQLite
+
+**Languages:** JavaScript, TypeScript, Python, Java, C++, PHP
+
+**Tools:** Docker, Figma, Postman, Git, VS Code
+
+
+> ### Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
+  <a href="https://x.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40"/></a>
+  <a href="https://github.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
+  <a href="https://www.youtube.com/@NALGEON"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40"/></a>
+  <a href="mailto:chamidudilshan0423@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
+  <a href="https://chamidu-dilshaninfo.web.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
+</p>
+
+> ### Support
+
+<p align="left">
+<a href="https://github.com/sponsors/Chamidu0423" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
+
+---
+
+⭐ *Always learning. Always building.* 
+
+---
+
+</td>
+<td align="center" width="40%">
+
+<img src="https://github.com/user-attachments/assets/1287993c-d369-409b-b43a-22c9fd2853f6" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+
+</td>
+  </tr>
+</table>
