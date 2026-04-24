@@ -11,39 +11,60 @@
   <tr>
     <td valign="top" width="60%">
 
-# I'm **Chamidu Dilshan** <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
+# I'm **Shouray Soni** <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 
-**Software Engineering Undergraduate** from **Sri Lanka**
+**Engineering Undergraduate** from **India**
 Passionate about crafting seamless digital experiences and exploring modern tech trends.
 
 > ### What I Do ?
 
-* Build responsive web and mobile apps with clean UI/UX.
-* Work across the stack using modern tools and frameworks.
-* Learn, create, and share ideas that inspire innovation.
+* Build scalable full-stack applications that solve real-world problems  
+* Develop AI/ML systems that turn data into actionable insights  
+* Take products from idea → implementation → deployment 
 
 > ### Tech Stack
 
-**Frontend:** React, Vue, Next.js, Tailwind CSS, Vite
+**Frontend:** React, Vue, Next.js, Tailwind CSS, Vite  
 
-**Backend:** Node.js, Express.js
+**Backend:** Node.js, Express.js  
 
-**Databases:** MySQL, MongoDB, SQLite
+**Databases:** MongoDB, MySQL, SQLite  
 
-**Languages:** JavaScript, TypeScript, Python, Java, C++, PHP
+**Languages:** JavaScript, TypeScript, Python, Java, C++, PHP  
 
-**Tools:** Docker, Figma, Postman, Git, VS Code
+**AI/ML & Data:** Pandas, NumPy, Scikit-learn  
+
+**Tools:** Docker, Figma, Postman, Git, VS Code  
+
+> *Hands-on with core stack (MERN + AI/ML), familiar with additional tools & frameworks.*
 
 
 > ### Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
-  <a href="https://x.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40"/></a>
-  <a href="https://github.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
-  <a href="https://www.youtube.com/@NALGEON"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40"/></a>
-  <a href="mailto:chamidudilshan0423@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
-  <a href="https://chamidu-dilshaninfo.web.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
+  <a href="https://www.linkedin.com/in/shouray-soni">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
+  </a>
+  
+  <a href="https://github.com/Shouray1104">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/>
+  </a>
+  
+  <a href="mailto:shouraysoni2004@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+  </a>
+  
+  <a href="https://x.com/Shouary_Soni">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40"/>
+  </a>
+  
+  <a href="https://www.youtube.com/@ShouraySoni">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40"/>
+  </a>
+  
+  <a href="------------------------------">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/>
+  </a>
 </p>
 
 > ### Support
